@@ -7,5 +7,5 @@
 element-ui:
      http://element-cn.eleme.io/#/zh-CN/component/installation
 sass官网：https://www.sass.hk/
---no-ff方式的git merge
+--no-ff方式是 随时随地多的git merge 
 
