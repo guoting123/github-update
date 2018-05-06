@@ -12,6 +12,9 @@ sass官网：
 vuex学习总结：
     https://www.cnblogs.com/libin-1/p/6518902.html
 
+vuexapi:    
+    https://vuex.vuejs.org/zh-cn/api.html?q=
+
 组件之间的传值：
    1、父组件向子组件传值
 
